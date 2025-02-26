@@ -1,0 +1,22 @@
+User-Agent: *
+Disallow: /page63941827.html
+Disallow: /page63948653.html
+Disallow: /4004
+Disallow: /page63949301.html
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow: /members/login*
+Disallow: /members/signup*
+Disallow:
+
+
+Sitemap: https://starswork.ru/sitemap.xml
+Sitemap: https://starswork.ru/sitemap-feeds.xml
+Host: https://starswork.ru
